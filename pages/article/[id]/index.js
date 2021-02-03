@@ -1,6 +1,6 @@
 import { server } from '../../../config'
 import Link from 'next/link'
-import { useRouter } from 'next/router'
+
 import Meta from '../../../components/Meta'
 
 const article = ({ article }) => {
